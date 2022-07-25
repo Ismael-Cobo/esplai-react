@@ -1,0 +1,16 @@
+.bola {
+  align-items: center;
+  background-color: red;
+  border-radius: 100%;
+  height: 50px;
+  margin: 5px;
+  width: 50px;
+}
+
+.bolaBingo {
+  color: white;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  width: 40px;
+}
